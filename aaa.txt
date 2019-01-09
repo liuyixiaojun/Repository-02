@@ -1,6 +1,2 @@
-111111
-222222
-aaaaaa
-ssssss
 fenzhi version
 version-2
